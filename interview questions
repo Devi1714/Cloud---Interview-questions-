@@ -1,0 +1,32 @@
+What is Cloud Technology?
+
+Cloud computing means storing and accessing the data and programs on remote servers 
+that are hosted on the internet instead of the computer’s hard drive or local server.
+Cloud computing is also referred to as Internet-based computing
+
+Function-as-a-Service (FaaS)
+is a serverless cloud computing model allowing developers to run code in response to events without managing infrastructure
+
+Anything/Everything as a Service (XaaS)
+is a cloud computing model delivering IT tools, software, 
+and products over the internet via flexible,
+subscription-based, or pay-as-you-go pricing rather than upfront ownership
+
+Q2. What are Cloud Delivery Models?
+A cloud delivery model is a specific, pre-packaged set of IT resources provided by a cloud provider. 
+The most popular cloud delivery models that have been broadly accepted and formalized are:
+
+Software as a service (SaaS)
+Platform as a service (PaaS)
+Infrastructure as a service (IaaS)
+Anything/Everything as a Service (XaaS)
+Function as a Service (FaaS)
+
+Q3. Who are the major performers in Cloud Computing Architecture?
+Each performer is an object (a person or an organization) that contributes to a transaction or method and/or performs tasks in Cloud computing. There are five major actors defined in the NIST cloud computing reference architecture:
+
+Cloud Provider
+Cloud Carrier
+Cloud Broker
+Cloud Auditor
+Cloud Consumer
